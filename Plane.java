@@ -22,6 +22,7 @@ static void classes ()
 {
 String classess = "business";
 System.out.println("my class "+classess);
+System.out.println("this for commit")
 }
 static void myfoods ()
 {
