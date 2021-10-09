@@ -1,0 +1,4 @@
+enum Lang
+{
+JAVA,PYTHON,DOTNET;
+}
